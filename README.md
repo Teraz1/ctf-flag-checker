@@ -16,7 +16,7 @@ A lightweight **Flask app** that simulates a CTF challenge flag checker.
 ## 📦 Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/ctf-flag-checker.git
+   git clone https://github.com/Teraz1/ctf-flag-checker.git
    cd ctf-flag-checker
    ```
 
